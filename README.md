@@ -1,6 +1,6 @@
 ### I turn messy enterprise workflows into AI agents that ship.
 
-Forward Deployed AI Engineer · 9+ years · $10M+ in documented savings
+Forward Deployed AI Engineer · 11+ years Overall · $20M+ in documented savings
 
 - 🤖 **Multi-agent document validation** (Claude + MCP) → ~70% less manual QA
 - 📬 **AI email intake** → replies in under 2 hours, down from 24
